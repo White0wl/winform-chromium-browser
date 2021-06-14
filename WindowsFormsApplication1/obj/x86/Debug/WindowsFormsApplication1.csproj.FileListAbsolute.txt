@@ -1,0 +1,34 @@
+D:\Ryabchenko\Cloud Projects\Cloud Mail.Ru\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+D:\Ryabchenko\Cloud Projects\Cloud Mail.Ru\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+D:\Ryabchenko\Cloud Projects\Cloud Mail.Ru\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+D:\Ryabchenko\Cloud Projects\Cloud Mail.Ru\38\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Ryabchenko\Cloud Projects\Cloud Mail.Ru\38\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Ryabchenko\Cloud Projects\Cloud Mail.Ru\38\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Ryabchenko\Cloud Projects\Cloud Mail.Ru\38\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Ryabchenko\Cloud Projects\Cloud Mail.Ru\38\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Ryabchenko\Cloud Projects\Cloud Mail.Ru\38\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Ryabchenko\Cloud Projects\Cloud Mail.Ru\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.Core.dll
+D:\Ryabchenko\Cloud Projects\Cloud Mail.Ru\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.dll
+D:\Ryabchenko\Cloud Projects\Cloud Mail.Ru\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.WinForms.dll
+D:\Ryabchenko\Cloud Projects\Cloud Mail.Ru\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.WinForms.xml
+D:\Ryabchenko\Cloud Projects\Cloud Mail.Ru\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.xml
+D:\Ryabchenko\Cloud Projects\Cloud Mail.Ru\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.Core.xml
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.Core.dll
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.dll
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.WinForms.dll
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.WinForms.xml
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.xml
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\CefSharp.Core.xml
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\38\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.History.resources
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_38_12.12.2016\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_38_12.12.2016\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_38_12.12.2016\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
